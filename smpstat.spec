@@ -17,7 +17,7 @@ machines. Currently it displays percent usr/sys CPU, percent idle, and
 interupts split between CPU's and major and minor faults.
 
 %description -l pl
-smpstat jest narzêdziem dla linuksa pomagaj±cym w monitorowaniu maszyn
+smpstat jest narzêdziem dla Linuksa pomagaj±cym w monitorowaniu maszyn
 SMP. Aktualnie wy¶wietla procentowe u¿ycie usr/sys CPU, czas idle i
 liczbê przerwañ dzielonych miêdzy CPU a tak¿e mniejsze i wiêksze
 b³êdy.
