@@ -9,7 +9,7 @@ Group:		Applications/System
 Source0:	http://www.mindspring.com/~joeja/ftp/mpstat-%{version}.tar.bz2
 # Source0-md5:	6a0eeb160c2f84e92654b2ddb205ce90
 ExclusiveOS:	Linux
-BuildRoot:      %{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 smpstat is a utitlity for Linux to help in the monitoring of SMP
