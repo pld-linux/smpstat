@@ -1,5 +1,5 @@
 Summary:	Utility for monitoring CPU status on MultiProcessor systems
-Summary(pl.UTF-8):   Narzędzie do monitorowania pracy CPU na maszynach wieloprocesorowych
+Summary(pl.UTF-8):	Narzędzie do monitorowania pracy CPU na maszynach wieloprocesorowych
 Name:		smpstat
 Version:	0.1.1
 Release:	2
