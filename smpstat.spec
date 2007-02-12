@@ -1,5 +1,5 @@
 Summary:	Utility for monitoring CPU status on MultiProcessor systems
-Summary(pl):	Narzêdzie do monitorowania pracy CPU na maszynach wieloprocesorowych
+Summary(pl.UTF-8):   NarzÄ™dzie do monitorowania pracy CPU na maszynach wieloprocesorowych
 Name:		smpstat
 Version:	0.1.1
 Release:	2
@@ -16,11 +16,11 @@ smpstat is a utitlity for Linux to help in the monitoring of SMP
 machines. Currently it displays percent usr/sys CPU, percent idle, and
 interupts split between CPU's and major and minor faults.
 
-%description -l pl
-smpstat jest narzêdziem dla Linuksa pomagaj±cym w monitorowaniu maszyn
-SMP. Aktualnie wy¶wietla procentowe u¿ycie usr/sys CPU, czas idle i
-liczbê przerwañ dzielonych miêdzy CPU a tak¿e mniejsze i wiêksze
-b³êdy.
+%description -l pl.UTF-8
+smpstat jest narzÄ™dziem dla Linuksa pomagajÄ…cym w monitorowaniu maszyn
+SMP. Aktualnie wyÅ›wietla procentowe uÅ¼ycie usr/sys CPU, czas idle i
+liczbÄ™ przerwaÅ„ dzielonych miÄ™dzy CPU a takÅ¼e mniejsze i wiÄ™ksze
+bÅ‚Ä™dy.
 
 %prep
 %setup -q -n mpstat-%{version}
