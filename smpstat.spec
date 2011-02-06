@@ -33,6 +33,7 @@ rm -rf $RPM_BUILD_ROOT
 install -D %{name} $RPM_BUILD_ROOT%{_bindir}/%{name}
 
 %clean
+rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
